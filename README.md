@@ -5,7 +5,7 @@
 **Seed:** 20240110  
 
 ## Presentation
-(https://drive.google.com/your-link-here)
+https://docs.google.com/presentation/d/1bH1YCSknyKUFDGge7RK7drdu_jrhxvIRzsen1WW7krM/edit?usp=sharing
 
 ## Dataset
 - **Name:** GTSRB (German Traffic Sign Recognition Benchmark)
