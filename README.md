@@ -45,7 +45,7 @@
 
 ## Best Result
 - **Best version:** Version 2
-- **Final test accuracy:** 
+- **Final test accuracy:** 92.71
 - **Target accuracy:** 88%
 - **Status:** ✓ Achieved
 
